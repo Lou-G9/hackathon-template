@@ -1,20 +1,24 @@
 # Resembler Hackathon README template
 
-- Team Name: REPLACE
-- Member #1: REPLACE
-- Member #2: REPLACE
-- Member #3: REPLACE
+- Team Name: Born2Code
+- Member #1: Louise Garoës
+- Member #2: Lina Garoës
+- Member #3: None
 
 # Project description
-Please provide a comprehensive description of your approach to the given problem statement. Add images, charts, links, anything that you think is necessary to describe your submission.
+We tried to create an app that promotes users to upload their dash cam footage to the app. The app would be powered by Resembler.ai to extract the data for the different types of scenarios of near miss incidents or collisions in order find more solutions to integrate into automated cars. The app encourages users by giving them a benefit depending on how much footage they upload.
+[DashSafe.pdf](https://github.com/user-attachments/files/19145604/DashSafe.pdf)
+https://github.com/user-attachments/assets/e73ac62b-fb09-4d6c-aa9f-0c4f64a5c148
 
 # Project execution
-Since one of the key features of this Hackathon is a **working Prototype**, please provide a step-by-step guide on how to run your submission.
+We were unable to get the app to function and we only managed to get the cover page set up(which was also challenging to create to our liking, as our images didn't produce and we also struggled to change the background colours).
 
 # Future Roadmap
 Please describe the future of your application. 
 - What makes your application scalable?
+  It would be an application available for anyone in the world
 - What is missing in your current implementation that you would include in a production grade application?
+  The application is not functional enough to be placed on a platform, such as PlayStore or App Store 
 
 # Additional comments
-Below here you have the opportunity to add more information or small notes. This could include obstacles that you have faced, known bugs or workarounds that you weren't able to solve in time.
+We were the group that had to rush to the UCT shuttle, hence the late submission
